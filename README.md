@@ -199,7 +199,3 @@ Add screenshots of the app UI and candidate analysis view here in future iterati
 ## Team Credits
 
 Built as a hackathon project by the TalentMind AI team.
-
----
-
-If you want, I can also add a polished project badge section, a requirements file, and a docs/screenshots folder structure to make this even more showcase-ready.
