@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Generated data
+data/processed/
+
+# Raw dataset
+data/raw/
+
+# Models
+models/
+
+# Outputs
+outputs/
+
+# Logs
+*.log
